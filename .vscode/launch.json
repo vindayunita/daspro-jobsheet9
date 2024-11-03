@@ -1,0 +1,28 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ArrayBilangan24",
+            "request": "launch",
+            "mainClass": "ArrayBilangan24",
+            "projectName": "daspro-jobsheet9_c89bc223"
+        },
+        {
+            "type": "java",
+            "name": "ArrayNilai24",
+            "request": "launch",
+            "mainClass": "ArrayNilai24",
+            "projectName": "daspro-jobsheet9_c89bc223"
+        }
+    ]
+}
